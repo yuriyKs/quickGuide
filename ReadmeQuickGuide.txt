@@ -11,5 +11,9 @@ echo "# yuriyKs-gutenberg_Blocks_for_WP-React-Udemy-" >> README.md
           git branch -M main
           git push -u origin main
 
+If you need to check defferent between local project and repository
+          git fetch (show how many commit on repository)
+          git status (show how your project BEHIND the repository)
+
 If You need load all changes from repository to local project 
           git pull

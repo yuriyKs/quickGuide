@@ -10,3 +10,6 @@ echo "# yuriyKs-gutenberg_Blocks_for_WP-React-Udemy-" >> README.md
           git remote add origin https://github.com/yuriyKs/yuriyKs-gutenberg_Blocks_for_WP-React-Udemy-.git
           git branch -M main
           git push -u origin main
+
+If You need load all changes from repository to local project 
+          git pull

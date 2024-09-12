@@ -17,3 +17,9 @@ If you need to check defferent between local project and repository
 
 If You need load all changes from repository to local project 
           git pull
+
+
+If need CLONE repository to local folder (in repository choose CODE - SSH & clone link (example - gh repo clone alialaa/wp-blocks-course-boilerplate)) in terminal
+          git clone gh repo clone alialaa/wp-blocks-course-boilerplate
+
+          

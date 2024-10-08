@@ -22,4 +22,5 @@ If You need load all changes from repository to local project
 If need CLONE repository to local folder (in repository choose CODE - SSH & clone link (example - gh repo clone alialaa/wp-blocks-course-boilerplate)) in terminal
           git clone gh repo clone alialaa/wp-blocks-course-boilerplate
 
-          
+CHECK what version of git remote REPO is installed 
+          git remote -v
